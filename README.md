@@ -7,3 +7,5 @@
 3. project Structure/Libraries
 	insert all lib in dir externalLib
 	insert all lib like in the image
+4. project Structure/problems
+	fix all
